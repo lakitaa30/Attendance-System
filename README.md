@@ -19,7 +19,8 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-fg
+![Screenshot 2023-06-05 114816](https://github.com/vaibhav13002/Face_recog_based_Attendance_System/assets/134428799/140f64cf-e0b5-4270-9dbe-56b4f0466128)
+
 
 
 TAKING ATTENDANCE:
