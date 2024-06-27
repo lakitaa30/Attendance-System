@@ -26,9 +26,6 @@ TAKING DATASET:
 
 ![Screenshot 2023-06-05 114922](https://github.com/vaibhav13002/Face_recog_based_Attendance_System/assets/134428799/002b3c0d-8349-4a4d-9ccc-3e7707c2285e)
 
-TAKING ATTENDANCE:
-![Screenshot 2023-06-05 115046](https://github.com/vaibhav13002/Face_recog_based_Attendance_System/assets/134428799/12e0b370-aab5-4612-9e70-4218593cd985)
-
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2023-06-05 115057](https://github.com/vaibhav13002/Face_recog_based_Attendance_System/assets/134428799/b6106e52-d946-443d-bff5-2ced014f0031)
 
